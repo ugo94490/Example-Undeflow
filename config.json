@@ -1,0 +1,10 @@
+{
+    "map_path": "map.json",
+    "traffic_light_timing": 1000,
+    "cars_path": "cars.json",
+    "logger_mode": 1,
+    "weather": 2,
+    "nb_generated_car": 10,
+    "backend_grpc_host": "localhost:8081",
+    "grpc_server_listening_host": "0.0.0.0:8082"
+}
